@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\Single_Switch" 
+PRINT(".\Listings\Single_Switch.m51")
